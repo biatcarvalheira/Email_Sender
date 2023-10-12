@@ -10,9 +10,6 @@ require('./services/passport');
 
 mongoose.connect(keys.mongoURI);
 
-
-
-
 const app = express();
 
 app.use (

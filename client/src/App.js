@@ -15,7 +15,10 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Hello There!
+          Learn React
+        </a>
+        <a href='/auth/google'>
+          Sign In with Google
         </a>
       </header>
     </div>

@@ -13,8 +13,6 @@ const App = () => {
 			<BrowserRouter>
 				<div>
 					<Route path = "/" component={Landing} />
-
-
 				</div>
 			</BrowserRouter>
 		</div>
